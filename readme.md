@@ -50,5 +50,5 @@ madhu_db1/ => database => 3 tables
 
 ## Getting Started | Routes
 
-1. `/` or `/create` - insert new data or update existing data into db or view today's data
-2. `/detail` - view data by date
+1. `/` or `/form_insert` - insert new data or update existing data into db or view today's data
+2. `/form_view` - view data by date
